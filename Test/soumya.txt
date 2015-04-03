@@ -7,4 +7,4 @@ Hope you are having a good day.
 #Line added from branch master.
 TestCase
 Testing
-
+Manual and automated.
