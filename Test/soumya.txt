@@ -4,7 +4,7 @@ Hello Soumya Masani.
 #New line added in between.
 Hope you are having a good day.
 #line added from branch soumya
-#Line added from branch master.
+#Line trimmed from branch master.
 TestCase
 Testing
 Manual and automated.
